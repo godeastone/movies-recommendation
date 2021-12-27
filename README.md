@@ -8,7 +8,7 @@
 
 * You can start recommendation in GUI environment by running `for_GUI.py`
 
-<img src="https://user-images.githubusercontent.com/43144650/147480034-3738f115-e208-4c3a-9113-75c861b38d32.png  width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/43144650/147480034-3738f115-e208-4c3a-9113-75c861b38d32.png/>
 
 * Then you can see the window above. 
 
