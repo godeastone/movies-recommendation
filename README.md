@@ -4,7 +4,7 @@
 
 * `Project.py` is a Python file with code for a **movie recommendation algorithm**
 
-* Used recommendation algorithms are **A-priori**, **K-means clustering**, **Item-based collaborative filtering**
+* Recommended algorithms used in this system are **A-priori**, **K-means clustering**, **Item-based collaborative filtering**
 
 * You can start recommendation in GUI environment by running `for_GUI.py`
 
